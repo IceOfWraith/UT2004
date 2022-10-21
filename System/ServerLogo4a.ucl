@@ -1,0 +1,1 @@
+Mutator=(ClassName=ServerLogo4a.MutServerLogo,GroupName=ServerLogo,IconMaterialName=MutatorArt.nosym,FriendlyName=ServerLogo4a.MutServerLogo.FriendlyName,Description=ServerLogo4a.MutServerLogo.Description,FriendlyName=ServerLogo4a.MutServerLogo.FriendlyName,FallbackName="Server Logo 4",FallbackDesc="Displays a logo on clients that connected to the server.")

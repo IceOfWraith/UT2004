@@ -1,0 +1,62 @@
+Log: Log file open, 09/08/04 15:52:14
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows XP 5.1 (Build: 2600)
+Init: Version: 3323 (128.29)
+Init: Compiled: Sep  7 2004 17:18:28
+Init: Command line: ons-urban
+Init: Character set: Unicode
+Init: Base directory: E:\DedicatedServer\System\
+Init: Ini:UT2004.ini   UserIni:User.ini
+Init: Build label:  Build UT2004_Build_[2004-09-07_17.17]
+Init: Object subsystem initialized
+Log: Executing Class Engine.ServerCommandlet
+Log: Browse: ons-urban?Name=Player?Class=Engine.Pawn?Character=Jakob?team=255
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 45568->45565; refs: 672623
+Log: Game class is 'ONSOnslaughtGame'
+Log: Bringing Level ons-urban.myLevel up for play (20) appSeconds: 8.495000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: Using Official Link Setup: Default
+ScriptLog: UdpServerQuery(crt): Port 7787 successfully bound.
+Log: Resolving master0.gamespy.com...
+ScriptLog: MasterServerUplink: MasterServerGameStats not found - stats uploading disabled.
+Log: Defaulting to false
+Log: Defaulting to false
+Log: Resolving ut2004master2.epicgames.com...
+ScriptLog: Webserver is not enabled.  Set bEnabled to True in Advanced Options.
+Log: MasterServerUplink: Resolved ut2004master2.epicgames.com as 207.135.145.7.
+Log: Resolved master0.gamespy.com (207.38.8.34)
+ScriptLog: UdpGameSpyUplink: Master Server is master0.gamespy.com:27900
+ScriptLog: UdpGameSpyUplink: Port 7788 successfully bound.
+Log: MasterServerUplink: Connection to ut2004master2.epicgames.com established.
+Log: Approval APPROVED
+Log: Master server requests heartbeat 0 with code 52496
+Log: Master server requests heartbeat 1 with code 52496
+Log: Master server requests heartbeat 2 with code 52496
+Log: Master server assigned our MatchID: 0
+Log: Success - 0 error(s), 0 warning(s)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Core.dll
+Log: Unbound to Engine.dll
+Exit: Game engine shut down
+Log: Unbound to Fire.dll
+Log: Unbound to Onslaught.dll
+Log: Unbound to IpDrv.dll
+Log: Unbound to Editor.dll
+Log: Unbound to XGame.dll
+Log: Unbound to XInterface.dll
+Log: Unbound to UWeb.dll
+Log: (Karma): Level Karma Terminated.
+Exit: Socket shut down
+Log: Garbage: objects: 51074->0; refs: 672623
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: FileManager: Reading 0 GByte 79 MByte 870 KByte 198 Bytes from HD took 0.667997 seconds (0.505997 reading, 0.162000 seeking).
+Log: FileManager: 0.086000 seconds spent with misc. duties
+Uninitialized: Name subsystem shut down
+Uninitialized: Allocation checking disabled
+Uninitialized: Log file closed, 09/08/04 15:57:53
