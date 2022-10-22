@@ -1,0 +1,45 @@
+====================================================================================================================
+DM-Forbidden
+====================================================================================================================
+
+Title                   : Forbidden
+Date                    : June 2004
+Filename                : DM-Forbidden.zip
+
+Author 1                : David Spalinski
+Email Address           : solidflux1@hotmail.com or david.spalinski@epicgames.com
+Home Page		: www.planetunreal.com/solidflux
+
+Author 2                : Soenke Warbeast Seidel
+Email Address           : warbeast@nuclearvision.de
+Home Page		: www.warbeast.de
+
+Description             : Expecting the friendly skies? I hope not. This map definately is different. it is set on an airship flying around a city.
+			
+Special Thanks to       : Ryan Ictus Brucks, Jim Entropy Brown, Stuman, willhaven, Inoxx, "Tha Edge", Ed Duke Cox, Jay Harrison, Plumb_Drumb, The rest of the CBP.
+			
+                   
+====================================================================================================================
+* Play Information *
+====================================================================================================================
+
+Player Count            : 2-4 Players
+
+Single Player           : Yes
+Deathmatch              : Yes
+Capture the Flag	: No
+Double Domination	: No
+Bombing Run		: No
+
+New Textures		: Yes
+New Sounds		: No
+New Static Meshes	: Yes
+New Music		: No
+
+====================================================================================================================
+Installation
+====================================================================================================================
+
+Unzip DM-Forbidden.ut2 to your UT2004 'Maps' directory
+
+
